@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>index</title>
+        <title>tensei's hobby corner</title>
       </Head>
       <main></main>
     </>
